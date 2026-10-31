@@ -1,0 +1,2 @@
+curl_cffi>=0.17
+requests>=2.31

@@ -1,0 +1,5 @@
+# one line per proxy: host:port:user:pass   (or host:port)
+# python proxy_check.py proxies.txt proxies_good.txt
+# python or_fast.py 100 --pool proxies_good.txt
+203.0.113.10:3129:username:password
+203.0.113.11:8080
